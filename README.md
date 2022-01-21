@@ -1,5 +1,5 @@
 # Geolocation-App-Python-Streamlit-Folium
-This is an app to find GEO data based on the IP address of the device
+This is an app to find Geo Location data based on the IP address of the device
 
 Streamlit is an open-source 
 Python library that makes it easy to create and share beautiful,
