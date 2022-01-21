@@ -4,11 +4,11 @@ This is an app to find GEO data based on the IP address of the device
 Streamlit is an open-source 
 Python library that makes it easy to create and share beautiful,
 custom web apps for machine learning and data science. In just a few minutes you can build and deploy powerful data apps.
-[Streamlit Docs]: https://docs.streamlit.io/library/get-started
+[Streamlit Docs](https://docs.streamlit.io/library/get-started)
 
-The APP uses [IP GEO LOCATION]: https://app.ipgeolocation.io/ to get the IP info of the device. Go to the URL and generate the free API KEY
+The App uses [IP GEO LOCATION](https://app.ipgeolocation.io/) to get the IP info of the device. Go to the URL and generate the free API_KEY
 
-This project also make use of folium.[Folium]: https://python-visualization.github.io/folium/ is a powerful Python library that helps you create several types of Leaflet maps. By default, Folium creates a map in a separate HTML file. Since Folium results are interactive, this library is very useful for dashboard building.
+This project also make use of folium.[Folium](https://python-visualization.github.io/folium/) is a powerful Python library that helps you create several types of Leaflet maps. By default, Folium creates a map in a separate HTML file. Since Folium results are interactive, this library is very useful for dashboard building.
 
 #### To install relevant packages
 Open your shell or terminal and install the relevant packages using the command below
